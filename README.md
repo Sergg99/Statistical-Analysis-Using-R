@@ -20,23 +20,23 @@ The data needed for the test includes the MechaCar_mpg.csv file, which contains 
 
 ## Results:
 The total_summary dataframe looks like this:
-![Image 1]()
+![Image 1](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/total_summary.jpg)
 
 
 #### The lot_summary dataframe looks like this:
-![Image 2]()
+![Image 2](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/lot_summary.jpg)
 
 #### Distribution of PSI by Manufacturing Lot:
-![Image 3]()
+![Image 3](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/BoxPlot%20of%20Distribution%20of%20PSI%20by%20Manufacturing%20Lot.pdf)
 
 #### PSI for All Manufacturing Lots:
-![Image 4]()
+![Image 4](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/BarPlot%20Histogram%20of%20PSI%20for%20All%20Manufacturing%20Lots.pdf)
 
 
 #### Tables and data:
-![Image 5]()
+![Image 5](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/Tables%20and%20data.jpg)
 A linear regression model was created to predict miles per gallon (mpg) based on 5 variables (vehicle length, weight, spoiler angle, ground clearance, and all-wheel drive). The model was found to be significant with vehicle length, weight, and ground clearance having a significant effect on mpg. The residuals represent the difference between the actual and predicted mpg, and the R-squared values show the proportion of mpg variability explained by the variables.
 
 #### more data:
-![Image 6]()
+![Image 6](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/Data%202.jpg)
 A One Sample t-test was performed on a variable "suspension_coil$PSI" to determine if its mean is different from 1500. The test result showed a t-value of -1.8931, a p-value of 0.06028, and a 95% confidence interval of 1497.507 to 1500.053. The sample estimate of the mean was 1498.78. The p-value of 0.06028 means there is a 6.028% chance that the difference between the sample mean and 1500 could have occurred by chance.
