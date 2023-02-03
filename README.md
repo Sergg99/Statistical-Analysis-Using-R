@@ -27,11 +27,10 @@ The total_summary dataframe looks like this:
 ![Image 2](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/lot_summary.jpg)
 
 #### Distribution of PSI by Manufacturing Lot:
-![Image 3](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/BoxPlot%20of%20Distribution%20of%20PSI%20by%20Manufacturing%20Lot.pdf)
+![Image 3](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/5f6d815b49498a74b1f036bd0087c733ae4398a9/Challenge%2016/Resources/BoxPlot%20of%20Distribution%20of%20PSI%20by%20Manufacturing%20Lot.pdf)
 
 #### PSI for All Manufacturing Lots:
-![Image 4](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/BarPlot%20Histogram%20of%20PSI%20for%20All%20Manufacturing%20Lots.pdf)
-
+![Image 4](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/5f6d815b49498a74b1f036bd0087c733ae4398a9/Challenge%2016/Resources/BarPlot%20Histogram%20of%20PSI%20for%20All%20Manufacturing%20Lots.pdf)
 
 #### Tables and data:
 ![Image 5](https://github.com/Sergg99/Statistical-Analysis-Using-R/blob/de5e559fb47e8ec9e159843b2896e4f25d654e92/Challenge%2016/Resources/Tables%20and%20data.jpg)
